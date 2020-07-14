@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "Doom",
+    "DB_PASSWORD": "Doomy101",
+    "DB_NAME": "myPlaces",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
