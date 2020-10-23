@@ -1,3 +1,3 @@
-## hyfclass26
+## hyfclass26 //team work
 
-[share places app](https://hyfclass26.herokuapp.com/).
+[share places app](https://hackyourplaces-c26.herokuapp.com/).
