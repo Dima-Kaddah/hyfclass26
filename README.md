@@ -20,7 +20,7 @@
 
 ### add new place
 <p align="center">
-<img src="https://github.com/Dima-Kaddah/hyfclass26/blob/master/imagesHYP/loginregisterpage.png" width="800"/></p>
+<img src="https://github.com/Dima-Kaddah/hyfclass26/blob/master/imagesHYP/add%20new%20place.png" width="800"/></p>
  
  ### all places(places page)
  
