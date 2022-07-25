@@ -7,7 +7,7 @@
 - React
 - NodeJS
 
-[share places app](https://hackyourplaces-c26.herokuapp.com/).
+###DEMO: [share places app](https://hackyourplaces-c26.herokuapp.com/).
 
 ### :house: page 
 
